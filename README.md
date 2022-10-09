@@ -1,3 +1,3 @@
 # vgOla
 
-Meu curso de algoritmos no VisualG
+Meu curso de algoritmos no VisualG - jan-abr/2022
